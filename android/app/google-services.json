@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1039940721230",
+    "firebase_url": "https://foodapp-c0118-default-rtdb.firebaseio.com",
+    "project_id": "foodapp-c0118",
+    "storage_bucket": "foodapp-c0118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039940721230:android:8a334e6ed0f7d2b2db011f",
+        "android_client_info": {
+          "package_name": "com.example.new_restuarent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cbRtt3rSUshcMXYnDomquqmAsQTkMRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
